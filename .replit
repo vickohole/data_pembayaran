@@ -1,0 +1,3 @@
+[nix]
+channel = "stable-24_05"
+packages = ["php82Packages.composer-local-repo-plugin", "php81"]
